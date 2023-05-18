@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Base/flutter_basic_base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Base/flutter_basic_base_sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LTS-Connection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/banking_sample" vcs="Git" />
+  </component>
+</project>
